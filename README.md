@@ -151,9 +151,3 @@ Algo_trading/
 - **Google Sheets logging requires sharing the sheet with your service account email.**
 - **Telegram alerts require both bot token and chat ID.**
 - **ML model is simple and for demonstration; you can extend with more features or models.**
-
----
-
-## 📬 Contact
-
-For issues or suggestions, open an issue or PR on GitHub.
